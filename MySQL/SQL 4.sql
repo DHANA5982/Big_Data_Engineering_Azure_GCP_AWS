@@ -1,0 +1,98 @@
+## DATA MANIPULATION AND TALBE ALTERATIONS
+
+/* 
+SQL NULL VALUES
+SQL UPDATE STATEMENT
+SQL DELETE STATEMENT
+SQL ALTER TABLE
+	- ADD COLUMN 
+    - MODIFY/ALTER/RENAME(CHANGE) COLUMN
+    - DROP COLUMN    
+*/   
+ 
+USE CompanyDB;
+ 
+## NULL VALUES
+ 
+INSERT INTO Employees VALUES
+(04, 'Ajithkumar', NULL, '3000000', NULL);
+ 
+
+## RETRIEVEING RECORDS WITH NULL VALUES
+ 
+SELECT * 
+FROM Employees 
+WHERE EmpDepartment IS NULL;
+
+SELECT * 
+FROM Employees 
+WHERE EmpDepartment IS NULL 
+  AND EmpJoinDate IS NULL;
+
+
+## UPDATE STATEMENT
+
+UPDATE Employees
+SET EmpDepartment='Architect' 
+WHERE EmpDepartment IS NULL;
+
+UPDATE Employees
+SET EmpJoinDate='2021-05-02'
+WHERE EmpID=4;
+
+UPDATE Employees
+SET EmpSalary=EmpSalary + 100000
+WHERE EmpDepartment='Data Science';
+
+SELECT * FROM Employees;
+
+
+## DELET STATEMENT
+
+DELETE FROM Employees
+WHERE EmpID=1;
+ 
+DELETE FROM Employees
+WHERE EmpSalary < 5000000;
+ 
+SELECT * FROM Employees;
+
+
+## ALTER TABLE STATEMENT
+
+ALTER TABLE Employees
+ADD COLUMN PhoneNumber VARCHAR(20);
+
+ALTER TABLE Employees
+ADD COLUMN EmpLastName VARCHAR(20),
+ADD COLUMN EmpEmailID VARCHAR(20);
+
+SELECT * FROM Employees;
+
+
+## MODIFY/ALTER COLUMN
+
+ALTER TABLE Employees
+MODIFY COLUMN PhoneNumber VARCHAR(25);
+
+ALTER TABLE Employees
+MODIFY COLUMN EmpSalary DECIMAL(10);
+
+ALTER TABLE EmployeeS
+CHANGE COLUMN PhoneNumber EmpPhoneNumber INT,
+CHANGE COLUMN EmpName EmpFirstName VARCHAR(20),
+CHANGE COLUMN EmpJoinDate EmpHireDate DATE;
+
+SELECT * FROM Employees;
+
+
+## DROP COLUMN
+
+ALTER TABLE Employees
+DROP COLUMN EmpEmailID;
+
+ALTER TABLE Employees
+DROP COLUMN EmpPhoneNumber,
+DROP COLUMN EmpLastName;
+
+SELECT * FROM Employees;
