@@ -1,1 +1,1 @@
-# Learnings
+# Learning
