@@ -77,3 +77,43 @@ INSERT INTO Singers(FirstName, LastName, Age) VALUES
 
 SELECT * FROM Singers;
 DESC Singers;
+
+CREATE TABLE Members(
+	MemberID INT PRIMARY KEY,
+    FirstName VARCHAR(25) NOT NULL,
+    LastName VARCHAR(25) NOT NULL,
+    EmailID VARCHAR(25) UNIQUE,
+    Salary INT DEFAULT 22000
+);
+
+DESC Members;
+
+INSERT INTO Members(MemberID, FirstName, LastName, EmailID) VALUES 
+(1, 'Tom', 'Cruise', 'tom.curise@gmail.com'),
+(2, 'Tom', 'Holland', 'tom.holland@gmail.com'),
+(3, 'Chris', 'Evans', 'chris.evans@gmail.com'),
+(4, 'Dwyne', 'Johnson', 'dwyne.johnson@gmail.com'),
+(5, 'Chris', 'Hamsworth', 'chris.hamsworth@gmail.com'),
+(6, 'Vin', 'Disel', 'vin.disel@gmail.com'),
+(7, 'Paul', 'Walker', 'paul.walker@gmail.com');
+
+CREATE INDEX IdxFistName ON Members(FirstName);
+
+SELECT * FROM Members;
+SELECT * FROM Members WHERE FirstName = 'Tom';
+
+
+CREATE TABLE Enrollment(
+	StudentID INT,
+    CourseID INT,
+    EnrollmentDate DATE,
+    PRIMARY KEY(StudentID, CourseID)
+);
+
+DESC Enrollment;
+
+INSERT INTO Enrollment VALUES 
+(1, 1, '2025-09-08'),
+(1, 2, '2025-10-15');
+
+SELECT * FROM Enrollment;
