@@ -1,1 +1,3 @@
 ipykernal
+numpy
+pandas
