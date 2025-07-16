@@ -1,3 +1,5 @@
-ipykernal
+ipykernel
 numpy
 pandas
+lxml
+openpyxl
