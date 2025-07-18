@@ -1,3 +1,4 @@
 *.zip
 .venv
 __pychache__
+logs
