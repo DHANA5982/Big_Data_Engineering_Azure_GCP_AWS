@@ -1,4 +1,6 @@
 *.zip
 .venv
 __pychache__
-logs
+SQLite/logs/
+SQLite/logs/app.log
+!SQLite/app.log
