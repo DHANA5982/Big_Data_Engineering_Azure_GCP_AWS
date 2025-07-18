@@ -1,3 +1,15 @@
 2025-07-18 18:59:07 - module1 - DEBUG - This is a debug message for module 1
 2025-07-18 18:59:07 - module2 - WARNING - This is a warning for module 2
 2025-07-18 18:59:07 - module2 - ERROR - This is an error message for module 2
+2025-07-18 19:27:45 - ArithmaticApp - DEBUG - Adding 10+5
+2025-07-18 19:27:45 - ArithmaticApp - DEBUG - Subtracting 10-5
+2025-07-18 19:27:45 - ArithmaticApp - DEBUG - Multiply 10*5
+2025-07-18 19:27:45 - ArithmaticApp - DEBUG - Division 10/5
+2025-07-18 19:28:46 - ArithmaticApp - DEBUG - Adding 10+5: 15
+2025-07-18 19:28:46 - ArithmaticApp - DEBUG - Subtracting 10-5: 5
+2025-07-18 19:28:46 - ArithmaticApp - DEBUG - Multiply 10*5: 50
+2025-07-18 19:28:46 - ArithmaticApp - DEBUG - Division 10/5: 2.0
+2025-07-18 19:31:49 - ArithmaticApp - DEBUG - Adding 10+5: 15
+2025-07-18 19:31:49 - ArithmaticApp - DEBUG - Subtracting 10-5: 5
+2025-07-18 19:31:49 - ArithmaticApp - DEBUG - Multiply 10*5: 50
+2025-07-18 19:31:49 - ArithmaticApp - ERROR - division by zero
