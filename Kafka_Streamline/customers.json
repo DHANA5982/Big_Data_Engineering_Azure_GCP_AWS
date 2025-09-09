@@ -1,0 +1,893 @@
+[
+    {
+        "customer_id": 0,
+        "name": "Customer_0",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-06-29",
+        "is_active": false
+    },
+    {
+        "customer_id": 1,
+        "name": "Customer_1",
+        "city": "Bangalore",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-12-07",
+        "is_active": true
+    },
+    {
+        "customer_id": 2,
+        "name": "Customer_2",
+        "city": "Hyderabad",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-10-27",
+        "is_active": true
+    },
+    {
+        "customer_id": 3,
+        "name": "Customer_3",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-10-17",
+        "is_active": false
+    },
+    {
+        "customer_id": 4,
+        "name": "Customer_4",
+        "city": "Ahmedabad",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-03-14",
+        "is_active": false
+    },
+    {
+        "customer_id": 5,
+        "name": "Customer_5",
+        "city": "Hyderabad",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-07-28",
+        "is_active": false
+    },
+    {
+        "customer_id": 6,
+        "name": "Customer_6",
+        "city": "Pune",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-08-29",
+        "is_active": false
+    },
+    {
+        "customer_id": 7,
+        "name": "Customer_7",
+        "city": "Ahmedabad",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-12-28",
+        "is_active": true
+    },
+    {
+        "customer_id": 8,
+        "name": "Customer_8",
+        "city": "Pune",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-06-22",
+        "is_active": true
+    },
+    {
+        "customer_id": 9,
+        "name": "Customer_9",
+        "city": "Mumbai",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-01-05",
+        "is_active": true
+    },
+    {
+        "customer_id": 10,
+        "name": "Customer_10",
+        "city": "Pune",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-08-05",
+        "is_active": true
+    },
+    {
+        "customer_id": 11,
+        "name": "Customer_11",
+        "city": "Delhi",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-08-02",
+        "is_active": false
+    },
+    {
+        "customer_id": 12,
+        "name": "Customer_12",
+        "city": "Chennai",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-11-21",
+        "is_active": false
+    },
+    {
+        "customer_id": 13,
+        "name": "Customer_13",
+        "city": "Chennai",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-11-06",
+        "is_active": true
+    },
+    {
+        "customer_id": 14,
+        "name": "Customer_14",
+        "city": "Hyderabad",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-02-07",
+        "is_active": false
+    },
+    {
+        "customer_id": 15,
+        "name": "Customer_15",
+        "city": "Mumbai",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-03-02",
+        "is_active": true
+    },
+    {
+        "customer_id": 16,
+        "name": "Customer_16",
+        "city": "Chennai",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-04-05",
+        "is_active": false
+    },
+    {
+        "customer_id": 17,
+        "name": "Customer_17",
+        "city": "Hyderabad",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-08-21",
+        "is_active": false
+    },
+    {
+        "customer_id": 18,
+        "name": "Customer_18",
+        "city": "Pune",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-10-04",
+        "is_active": true
+    },
+    {
+        "customer_id": 19,
+        "name": "Customer_19",
+        "city": "Kolkata",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-02-05",
+        "is_active": true
+    },
+    {
+        "customer_id": 20,
+        "name": "Customer_20",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-01-01",
+        "is_active": true
+    },
+    {
+        "customer_id": 21,
+        "name": "Customer_21",
+        "city": "Bangalore",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-05-30",
+        "is_active": true
+    },
+    {
+        "customer_id": 22,
+        "name": "Customer_22",
+        "city": "Chennai",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-08-03",
+        "is_active": true
+    },
+    {
+        "customer_id": 23,
+        "name": "Customer_23",
+        "city": "Chennai",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-02-15",
+        "is_active": false
+    },
+    {
+        "customer_id": 24,
+        "name": "Customer_24",
+        "city": "Kolkata",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-03-06",
+        "is_active": false
+    },
+    {
+        "customer_id": 25,
+        "name": "Customer_25",
+        "city": "Pune",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-01-06",
+        "is_active": false
+    },
+    {
+        "customer_id": 26,
+        "name": "Customer_26",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-03-22",
+        "is_active": true
+    },
+    {
+        "customer_id": 27,
+        "name": "Customer_27",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-07-08",
+        "is_active": true
+    },
+    {
+        "customer_id": 28,
+        "name": "Customer_28",
+        "city": "Hyderabad",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-05-31",
+        "is_active": true
+    },
+    {
+        "customer_id": 29,
+        "name": "Customer_29",
+        "city": "Delhi",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-05-28",
+        "is_active": false
+    },
+    {
+        "customer_id": 30,
+        "name": "Customer_30",
+        "city": "Hyderabad",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-01-28",
+        "is_active": false
+    },
+    {
+        "customer_id": 31,
+        "name": "Customer_31",
+        "city": "Kolkata",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-06-14",
+        "is_active": false
+    },
+    {
+        "customer_id": 32,
+        "name": "Customer_32",
+        "city": "Delhi",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-05-15",
+        "is_active": false
+    },
+    {
+        "customer_id": 33,
+        "name": "Customer_33",
+        "city": "Mumbai",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-09-11",
+        "is_active": false
+    },
+    {
+        "customer_id": 34,
+        "name": "Customer_34",
+        "city": "Kolkata",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-11-01",
+        "is_active": true
+    },
+    {
+        "customer_id": 35,
+        "name": "Customer_35",
+        "city": "Pune",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-07-31",
+        "is_active": false
+    },
+    {
+        "customer_id": 36,
+        "name": "Customer_36",
+        "city": "Ahmedabad",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-10-07",
+        "is_active": true
+    },
+    {
+        "customer_id": 37,
+        "name": "Customer_37",
+        "city": "Hyderabad",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-03-21",
+        "is_active": true
+    },
+    {
+        "customer_id": 38,
+        "name": "Customer_38",
+        "city": "Bangalore",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-09-26",
+        "is_active": false
+    },
+    {
+        "customer_id": 39,
+        "name": "Customer_39",
+        "city": "Pune",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-12-14",
+        "is_active": false
+    },
+    {
+        "customer_id": 40,
+        "name": "Customer_40",
+        "city": "Pune",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-01-15",
+        "is_active": false
+    },
+    {
+        "customer_id": 41,
+        "name": "Customer_41",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-03-28",
+        "is_active": false
+    },
+    {
+        "customer_id": 42,
+        "name": "Customer_42",
+        "city": "Bangalore",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-08-11",
+        "is_active": true
+    },
+    {
+        "customer_id": 43,
+        "name": "Customer_43",
+        "city": "Hyderabad",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-11-21",
+        "is_active": true
+    },
+    {
+        "customer_id": 44,
+        "name": "Customer_44",
+        "city": "Pune",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-04-01",
+        "is_active": true
+    },
+    {
+        "customer_id": 45,
+        "name": "Customer_45",
+        "city": "Chennai",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-11-12",
+        "is_active": false
+    },
+    {
+        "customer_id": 46,
+        "name": "Customer_46",
+        "city": "Kolkata",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-09-23",
+        "is_active": true
+    },
+    {
+        "customer_id": 47,
+        "name": "Customer_47",
+        "city": "Kolkata",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-11-03",
+        "is_active": true
+    },
+    {
+        "customer_id": 48,
+        "name": "Customer_48",
+        "city": "Ahmedabad",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-11-16",
+        "is_active": true
+    },
+    {
+        "customer_id": 49,
+        "name": "Customer_49",
+        "city": "Delhi",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-04-16",
+        "is_active": true
+    },
+    {
+        "customer_id": 50,
+        "name": "Customer_50",
+        "city": "Kolkata",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-09-10",
+        "is_active": true
+    },
+    {
+        "customer_id": 51,
+        "name": "Customer_51",
+        "city": "Ahmedabad",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-07-18",
+        "is_active": true
+    },
+    {
+        "customer_id": 52,
+        "name": "Customer_52",
+        "city": "Ahmedabad",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-02-25",
+        "is_active": true
+    },
+    {
+        "customer_id": 53,
+        "name": "Customer_53",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-08-27",
+        "is_active": true
+    },
+    {
+        "customer_id": 54,
+        "name": "Customer_54",
+        "city": "Kolkata",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-12-13",
+        "is_active": false
+    },
+    {
+        "customer_id": 55,
+        "name": "Customer_55",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-12-07",
+        "is_active": true
+    },
+    {
+        "customer_id": 56,
+        "name": "Customer_56",
+        "city": "Delhi",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-12-29",
+        "is_active": false
+    },
+    {
+        "customer_id": 57,
+        "name": "Customer_57",
+        "city": "Kolkata",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-08-06",
+        "is_active": false
+    },
+    {
+        "customer_id": 58,
+        "name": "Customer_58",
+        "city": "Kolkata",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-07-31",
+        "is_active": true
+    },
+    {
+        "customer_id": 59,
+        "name": "Customer_59",
+        "city": "Ahmedabad",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-07-08",
+        "is_active": true
+    },
+    {
+        "customer_id": 60,
+        "name": "Customer_60",
+        "city": "Mumbai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-12-01",
+        "is_active": true
+    },
+    {
+        "customer_id": 61,
+        "name": "Customer_61",
+        "city": "Hyderabad",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-12-31",
+        "is_active": false
+    },
+    {
+        "customer_id": 62,
+        "name": "Customer_62",
+        "city": "Delhi",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-04-12",
+        "is_active": true
+    },
+    {
+        "customer_id": 63,
+        "name": "Customer_63",
+        "city": "Mumbai",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-05-23",
+        "is_active": true
+    },
+    {
+        "customer_id": 64,
+        "name": "Customer_64",
+        "city": "Chennai",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-10-12",
+        "is_active": false
+    },
+    {
+        "customer_id": 65,
+        "name": "Customer_65",
+        "city": "Delhi",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-03-11",
+        "is_active": true
+    },
+    {
+        "customer_id": 66,
+        "name": "Customer_66",
+        "city": "Pune",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-12-02",
+        "is_active": true
+    },
+    {
+        "customer_id": 67,
+        "name": "Customer_67",
+        "city": "Hyderabad",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-03-06",
+        "is_active": false
+    },
+    {
+        "customer_id": 68,
+        "name": "Customer_68",
+        "city": "Kolkata",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-07-17",
+        "is_active": false
+    },
+    {
+        "customer_id": 69,
+        "name": "Customer_69",
+        "city": "Pune",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "registration_date": "2023-01-16",
+        "is_active": true
+    },
+    {
+        "customer_id": 70,
+        "name": "Customer_70",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-11-06",
+        "is_active": true
+    },
+    {
+        "customer_id": 71,
+        "name": "Customer_71",
+        "city": "Mumbai",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-12-19",
+        "is_active": true
+    },
+    {
+        "customer_id": 72,
+        "name": "Customer_72",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-09-20",
+        "is_active": false
+    },
+    {
+        "customer_id": 73,
+        "name": "Customer_73",
+        "city": "Chennai",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-03-01",
+        "is_active": false
+    },
+    {
+        "customer_id": 74,
+        "name": "Customer_74",
+        "city": "Chennai",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-01-10",
+        "is_active": false
+    },
+    {
+        "customer_id": 75,
+        "name": "Customer_75",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-11-05",
+        "is_active": true
+    },
+    {
+        "customer_id": 76,
+        "name": "Customer_76",
+        "city": "Kolkata",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-01-08",
+        "is_active": false
+    },
+    {
+        "customer_id": 77,
+        "name": "Customer_77",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-12-07",
+        "is_active": true
+    },
+    {
+        "customer_id": 78,
+        "name": "Customer_78",
+        "city": "Bangalore",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-03-31",
+        "is_active": false
+    },
+    {
+        "customer_id": 79,
+        "name": "Customer_79",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-02-06",
+        "is_active": true
+    },
+    {
+        "customer_id": 80,
+        "name": "Customer_80",
+        "city": "Ahmedabad",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-03-25",
+        "is_active": false
+    },
+    {
+        "customer_id": 81,
+        "name": "Customer_81",
+        "city": "Chennai",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-08-22",
+        "is_active": true
+    },
+    {
+        "customer_id": 82,
+        "name": "Customer_82",
+        "city": "Kolkata",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-09-07",
+        "is_active": false
+    },
+    {
+        "customer_id": 83,
+        "name": "Customer_83",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-08-28",
+        "is_active": true
+    },
+    {
+        "customer_id": 84,
+        "name": "Customer_84",
+        "city": "Pune",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-04-14",
+        "is_active": false
+    },
+    {
+        "customer_id": 85,
+        "name": "Customer_85",
+        "city": "Chennai",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-07-30",
+        "is_active": true
+    },
+    {
+        "customer_id": 86,
+        "name": "Customer_86",
+        "city": "Ahmedabad",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-08-13",
+        "is_active": false
+    },
+    {
+        "customer_id": 87,
+        "name": "Customer_87",
+        "city": "Pune",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-10-06",
+        "is_active": false
+    },
+    {
+        "customer_id": 88,
+        "name": "Customer_88",
+        "city": "Pune",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-06-15",
+        "is_active": true
+    },
+    {
+        "customer_id": 89,
+        "name": "Customer_89",
+        "city": "Delhi",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-10-28",
+        "is_active": true
+    },
+    {
+        "customer_id": 90,
+        "name": "Customer_90",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India",
+        "registration_date": "2023-02-15",
+        "is_active": false
+    },
+    {
+        "customer_id": 91,
+        "name": "Customer_91",
+        "city": "Mumbai",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-01-02",
+        "is_active": false
+    },
+    {
+        "customer_id": 92,
+        "name": "Customer_92",
+        "city": "Kolkata",
+        "state": "Delhi",
+        "country": "India",
+        "registration_date": "2023-06-25",
+        "is_active": true
+    },
+    {
+        "customer_id": 93,
+        "name": "Customer_93",
+        "city": "Pune",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-09-30",
+        "is_active": false
+    },
+    {
+        "customer_id": 94,
+        "name": "Customer_94",
+        "city": "Chennai",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-04-28",
+        "is_active": false
+    },
+    {
+        "customer_id": 95,
+        "name": "Customer_95",
+        "city": "Mumbai",
+        "state": "Karnataka",
+        "country": "India",
+        "registration_date": "2023-09-29",
+        "is_active": true
+    },
+    {
+        "customer_id": 96,
+        "name": "Customer_96",
+        "city": "Ahmedabad",
+        "state": "Telangana",
+        "country": "India",
+        "registration_date": "2023-06-22",
+        "is_active": false
+    },
+    {
+        "customer_id": 97,
+        "name": "Customer_97",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "registration_date": "2023-10-31",
+        "is_active": true
+    },
+    {
+        "customer_id": 98,
+        "name": "Customer_98",
+        "city": "Pune",
+        "state": "West Bengal",
+        "country": "India",
+        "registration_date": "2023-06-01",
+        "is_active": true
+    }
+]
