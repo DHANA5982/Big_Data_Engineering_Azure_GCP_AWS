@@ -1,0 +1,27 @@
+version: "3.9"
+
+services:
+  web:
+    image: web-app
+    build: .
+    ports:
+      - "8501:8501"
+    depends_on:
+      - db
+    environment:
+      DB_HOST: db
+      DB_NAME: testdb
+      DB_USER: testuser
+      DB_PASS: testpass
+      
+  db:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: testdb
+      POSTGRES_USER: testuser
+      POSTGRES_PASSWORD: testpass
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:
