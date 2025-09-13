@@ -6,4 +6,4 @@ SQLite/logs/app.log
 !SQLite/app.log
 Extracts
 data/raw/*
-ccloud-pytho-client/.
+ccloud-python-client/.
