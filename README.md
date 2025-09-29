@@ -95,18 +95,19 @@ Implemented a comprehensive data pipeline featuring:
 - **Analytics**: Azure Synapse for external table creation and analysis
 - **Serving**: Gold layer data ready for downstream consumption by Data Scientists and Analysts
 
-### **Real-Time Kafka Streaming**
-- Producer/Consumer implementation using Confluent Cloud
-- Real-time message processing and data streaming
+## 🎯 Key Production Projects
 
-### **Docker Containerization**
-- Built containerized applications with complete environment configurations
-- Multi-container orchestration using Docker Compose
+### **Real-Time Streaming Pipeline**
+• **Engineered** Apache Kafka producer/consumer architecture with **topic subscription** for high-throughput real-time message processing and data streaming at enterprise scale.
 
-### **Airflow Orchestration**
-- Created multiple DAGs for workflow automation
-- Custom Dockerfile and Compose configurations
-- Multi-container service coordination
+### **Workflow Orchestration Platform**
+• **Implemented** Apache Airflow DAGs for **cyclical ETL workflows**, successfully deployed to production environments including Astro Cloud and AWS with automated scheduling.
+
+### **Containerized Data Platform**
+• **Architected** Docker multi-container solution integrating **Kafka + PostgreSQL + API ingestion**, deployed to Docker Hub for scalable data processing and analytics.
+
+### **End-to-End Azure Cloud Pipeline**
+• **Delivered** production-grade data pipeline using **ADF + ADLS + Databricks + Synapse**, implementing medallion architecture for enterprise data lake solutions.
 
 ## 📊 Data Analysis & Visualization
 
