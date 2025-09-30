@@ -109,6 +109,9 @@ Implemented a comprehensive data pipeline featuring:
 ### **End-to-End Azure Cloud Pipeline**
 • **Delivered** production-grade data pipeline using **ADF + ADLS + Databricks + Synapse**, implementing medallion architecture for enterprise data lake solutions.
 
+### **Distributed Processing & Analytics Platform**
+• **Orchestrated** HDFS data migration from local to **Google Cloud Storage + Dataproc**, leveraging Apache Spark and PySpark for parallel processing of 4+ synthetic e-commerce datasets.
+
 ## 📊 Data Analysis & Visualization
 
 ### **E-commerce Data Analysis**
@@ -160,4 +163,4 @@ Feel free to explore the projects and reach out for discussions on big data engi
 
 ---
 
-*This repository represents my journey through modern big data engineering practices, showcasing hands-on experience with industry-standard tools and real-world project implementations.*
+*This repository represents my journey through modern big data engineering practices, showcasing hands-on experience with industry-standard tools and real-world project implementations.* 
