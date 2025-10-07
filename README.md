@@ -163,6 +163,6 @@ Feel free to explore the projects and reach out for discussions on big data engi
 
 ## 🙏 Acknowledgement
 
-- Udemy: [Big Data Engineering - Azure, GCP, AWS] (https://www.udemy.com/share/10cMDh3@TbwMYKRyzF_nXnQ7M_xxvEvWFBo3RwmhWer_pVyNMNL4B8qgtLYxIFw1JIcRqkrKDQ==/)
+- Udemy: [Big Data Engineering - Azure, GCP, AWS](https://www.udemy.com/share/10cMDh3@TbwMYKRyzF_nXnQ7M_xxvEvWFBo3RwmhWer_pVyNMNL4B8qgtLYxIFw1JIcRqkrKDQ==/)
 
 *This repository represents my journey through modern big data engineering practices, showcasing hands-on experience with industry-standard tools and real-world project implementations.* 
